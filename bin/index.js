@@ -1,16 +1,14 @@
-// chalk cli的样式
-const chalk = require('chalk')
+#!/usr/bin/env node
 
+const chalk = require('chalk')
 const clear = require('clear')
 
 //可以理解是画图案的  cli的图案
 const figlet = require('figlet')
-
 const files =  require('../lib/files')
 
 //一个用户与命令行交互的工具    type：表示提问的类型
 const inquirer = require('../lib/inquirer')
-
 const download = require('../lib/github')
 
 clear();
