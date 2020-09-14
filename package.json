@@ -1,6 +1,6 @@
 {
-    "name": "create-cli-hhh",
-    "version": "1.0.0",
+    "name": "create-cli-hh",
+    "version": "1.0.1",
     "description": "react的cli项目",
     "main": "index.js",
     "scripts": {
