@@ -10,6 +10,9 @@
         "type": "git",
         "url": "git+https://github.com/HHH-Disguiser/react-cli.git"
     },
+    "bin": {
+      "qc-cli": "./bin/index.js"
+    },
     "author": "huihua",
     "license": "ISC",
     "bugs": {
